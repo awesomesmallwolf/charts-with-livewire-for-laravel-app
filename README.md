@@ -1,15 +1,6 @@
-[![GitHub release](https://img.shields.io/github/release/asantibanez/livewire-charts.svg)](https://github.com/asantibanez/livewire-charts/releases/)
+# Description
 
-![Livewire Charts](https://banners.beyondco.de/Livewire%20Charts.png?theme=light&packageName=asantibanez%2Flivewire-charts&pattern=graphPaper&style=style_1&description=Neat+Livewire+Charts+for+your+Laravel+projects&md=1&fontSize=100px&images=chart-square-bar)
-
-## Preview
-
-![preview](https://github.com/asantibanez/livewire-charts/raw/master/preview.gif)
-![preview](./preview_radarchart.gif)
-
-## Demo
-
-https://github.com/asantibanez/livewire-charts-demo
+This app is a neat livewire charts for Laravel apps.
 
 ## Installation
 
@@ -269,24 +260,3 @@ vertical space. A fixed height is needed to render properly.
 ``` bash
 composer test
 ```
-
-## Changelog
-
-Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
-
-## Contributing
-
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
-
-### Security
-
-If you discover any security related issues, please email santibanez.andres@gmail.com instead of using the issue tracker.
-
-## Credits
-
-- [Andrés Santibáñez](https://github.com/asantibanez)
-- [All Contributors](../../contributors)
-
-## License
-
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
